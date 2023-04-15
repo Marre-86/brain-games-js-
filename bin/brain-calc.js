@@ -2,4 +2,4 @@
 
 import gameProcess from '../src/index.js';
 
-gameProcess('even');
+gameProcess('calc');

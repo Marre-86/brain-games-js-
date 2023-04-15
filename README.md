@@ -10,3 +10,9 @@
 
 ### Brain-even game process (loss):
 [![asciicast](https://asciinema.org/a/qpSwrq0M0D3exiQTPZvPDfxfh.svg)](https://asciinema.org/a/qpSwrq0M0D3exiQTPZvPDfxfh)
+
+### Brain-calc game process (win):
+[![asciicast](https://asciinema.org/a/JqeJ70zhzNr4mJqIeQuudOoHN.svg)](https://asciinema.org/a/JqeJ70zhzNr4mJqIeQuudOoHN)
+
+### Brain-calc game process (loss):
+[![asciicast](https://asciinema.org/a/YvJA0Sd9kxDw243cPpdQhykyR.svg)](https://asciinema.org/a/YvJA0Sd9kxDw243cPpdQhykyR)
