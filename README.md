@@ -16,3 +16,10 @@
 
 ### Brain-calc game process (loss):
 [![asciicast](https://asciinema.org/a/YvJA0Sd9kxDw243cPpdQhykyR.svg)](https://asciinema.org/a/YvJA0Sd9kxDw243cPpdQhykyR)
+
+### Brain-calc game process (win):
+[![asciicast](https://asciinema.org/a/cLfHMhQpiYJYwlOH11149PW3v.svg)](https://asciinema.org/a/cLfHMhQpiYJYwlOH11149PW3v)
+
+### Brain-calc game process (loss):
+[![asciicast](https://asciinema.org/a/hXqzDxe2rSoefrNwHV8wa4yFK.svg)](https://asciinema.org/a/hXqzDxe2rSoefrNwHV8wa4yFK)
+
