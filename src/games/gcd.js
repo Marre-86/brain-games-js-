@@ -1,8 +1,8 @@
 import readlineSync from 'readline-sync';
 
 const gcdIteration = () => {
-  const num1 = Math.floor(Math.random() * 10);
-  const num2 = Math.floor(Math.random() * 20);
+  const num1 = Math.floor(Math.random() * (Math.floor(100) - Math.ceil(1)) + Math.ceil(1));
+  const num2 = Math.floor(Math.random() * (Math.floor(100) - Math.ceil(1)) + Math.ceil(1));
 
   console.log(`Question: ${num1} ${num2}`);
 

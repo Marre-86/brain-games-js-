@@ -17,9 +17,15 @@
 ### Brain-calc game process (loss):
 [![asciicast](https://asciinema.org/a/YvJA0Sd9kxDw243cPpdQhykyR.svg)](https://asciinema.org/a/YvJA0Sd9kxDw243cPpdQhykyR)
 
-### Brain-calc game process (win):
+### Brain-gcd game process (win):
 [![asciicast](https://asciinema.org/a/cLfHMhQpiYJYwlOH11149PW3v.svg)](https://asciinema.org/a/cLfHMhQpiYJYwlOH11149PW3v)
 
-### Brain-calc game process (loss):
+### Brain-gcd game process (loss):
 [![asciicast](https://asciinema.org/a/hXqzDxe2rSoefrNwHV8wa4yFK.svg)](https://asciinema.org/a/hXqzDxe2rSoefrNwHV8wa4yFK)
+
+### Brain-progression game process (win):
+[![asciicast](https://asciinema.org/a/CFJaWRLuMf1wfA0A4fzdRooct.svg)](https://asciinema.org/a/CFJaWRLuMf1wfA0A4fzdRooct)
+
+### Brain-progression game process (loss):
+[![asciicast](https://asciinema.org/a/h9CLckHqft3al1keXCI4Zb9Rt.svg)](https://asciinema.org/a/h9CLckHqft3al1keXCI4Zb9Rt)
 
