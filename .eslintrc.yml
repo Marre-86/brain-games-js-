@@ -9,7 +9,5 @@ parserOptions:
   sourceType: module
 rules: {
   "no-console": "off",
-  "import/extensions": "off",
-  "no-eval": "off",
-  "no-unused-vars": "off" 
+  "import/extensions": "off"
 }

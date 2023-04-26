@@ -10,7 +10,18 @@ const calcIteration = () => {
 
   const userAnswer = readlineSync.question('Your answer: ');
 
-  const rightAnswer = eval(num1 + sign + num2);
+  let rightAnswer = 0;
+
+  switch (sign) {
+    case '+':
+      rightAnswer = num1 + num2;
+      break;
+    case '-':
+      rightAnswer = num1 - num2;
+      break;
+    default:
+      rightAnswer = num1 * num2;
+  }
 
   const answerBoolean = (parseInt(userAnswer, 10) === rightAnswer);
 

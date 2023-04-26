@@ -5,6 +5,14 @@ import gcdIteration from './games/gcd.js';
 import progressionIteration from './games/progression.js';
 import primeIteration from './games/prime.js';
 
+const iteration = {
+  even: evenIteration,
+  calc: calcIteration,
+  gcd: gcdIteration,
+  progression: progressionIteration,
+  prime: primeIteration,
+};
+
 const task = {
   even: 'Answer "yes" if the number is even, otherwise answer "no".',
   calc: 'What is the result of the expression?',
@@ -18,7 +26,7 @@ const gameProcess = (mode) => {
   console.log(task[`${mode}`]);
 
   for (let i = 1; i <= 3; i += 1) {
-    const answer = eval(`${mode}Iteration`)();
+    const answer = iteration[mode]();
     if (answer === false) {
       console.log(`Let's try again, ${userName}!`);
       return;
