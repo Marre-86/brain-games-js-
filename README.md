@@ -29,3 +29,9 @@
 ### Brain-progression game process (loss):
 [![asciicast](https://asciinema.org/a/h9CLckHqft3al1keXCI4Zb9Rt.svg)](https://asciinema.org/a/h9CLckHqft3al1keXCI4Zb9Rt)
 
+### Brain-prime game process (win):
+[![asciicast](https://asciinema.org/a/FUWErULFIDv7t4qDPno4pVt9G.svg)](https://asciinema.org/a/FUWErULFIDv7t4qDPno4pVt9G)
+
+### Brain-prime game process (loss):
+[![asciicast](https://asciinema.org/a/V5JipLAKgngrNWb01J0xSz7oK.svg)](https://asciinema.org/a/V5JipLAKgngrNWb01J0xSz7oK)
+

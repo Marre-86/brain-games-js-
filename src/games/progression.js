@@ -1,5 +1,4 @@
 import readlineSync from 'readline-sync';
-import _ from 'lodash';
 
 const progressionIteration = () => {
   const start = Math.floor(Math.random() * 10);
